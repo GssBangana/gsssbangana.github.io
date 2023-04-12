@@ -16,7 +16,7 @@ Home | GSSSBangana
 
 
 <a class= "active" href="https://gsssbangana.github.io/">Home</a>
- <a href="#">About Us</a>
+
 
 
 <a href="#"><details> <summary>Academics </summary><div class="column">
@@ -56,7 +56,9 @@ Home | GSSSBangana
 <a href="#" >Gallery</a>
 <a href="#" >Resources</a>
  <a href="#">Administration</a>
-  <a href="#">Contact Us</a></div>
+ <a href="#">About Us</a>
+
+  
  
 
 
