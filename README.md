@@ -20,16 +20,16 @@ Home | GSSSBangana
 <a href="#"><details> <summary>Academics </summary><div class="column">
 
   <form action="Results.html">
-<button type="submit" class="button"/> Results</button>
+<button type="submit" class="button"/> Results
 </form>
   <form action="#">
-<button type="submit" class="button"/> Student Achievers</button>
+<button type="submit" class="button"/> Student Achievers
 </form>
  <form action="#">
-<button type="submit" class="button"/> Teacher Achievers</button>
+<button type="submit" class="button"/> Teacher Achievers
 </form>
  <form action="#">
-<button type="submit" class="button"/> Academic Records</button>
+<button type="submit" class="button"/> Academic Records
 </form>
 </div></details></a>
 
@@ -37,16 +37,16 @@ Home | GSSSBangana
 
   <form action="Results.html">
 
-<button type="submit" class="button"/> Results</button>
+<button type="submit" class="button"/> Results
 </form>
   <form action="#">
-<button type="submit" class="button"/> Student Achievers</button>
+<button type="submit" class="button"/> Student Achievers
 </form>
  <form action="#">
-<button type="submit" class="button"/> Teacher Achievers</button>
+<button type="submit" class="button"/> Teacher Achievers
 </form>
  <form action="#">
-<button type="submit" class="button"/> Academic Records</button>
+<button type="submit" class="button"/> Academic Records
 </form>
 </div></details></a>
  <a href="#" > Activities</a>
