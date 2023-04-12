@@ -14,9 +14,7 @@ Home | GSSSBangana
 <link rel="stylesheets" href="gsss.csss">
 <div class="topnav">
 
-   <div style="padding: 20px;
-                    margin-top: 30px;
-                    height: 1500px;">
+
 <a class= "active" href="https://gsssbangana.github.io/">Home</a>
  <a href="#">About Us</a>
 
