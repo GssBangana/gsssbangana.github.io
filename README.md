@@ -34,6 +34,7 @@ Home | GSSSBangana
 <button type="submit" class="button"/> Academic Records
 </form>
 </div></details></a>
+ <a href="#" > Activities</a>
 
  <a href="#"><details> <summary> Students Section</summary><div class="column">
 
@@ -51,11 +52,11 @@ Home | GSSSBangana
 <button type="submit" class="button"/> Academic Records
 </form>
 </div></details></a>
- <a href="#" > Activities</a>
+<a href="#">Administration</a>
  
 <a href="#" >Gallery</a>
 <a href="#" >Resources</a>
- <a href="#">Administration</a>
+ 
  <a href="#">About Us</a>
 
   </div>
