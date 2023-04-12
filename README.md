@@ -58,7 +58,7 @@ Home | GSSSBangana
  <a href="#">Administration</a>
  <a href="#">About Us</a>
 
-  
+  </div>
  
 
 
