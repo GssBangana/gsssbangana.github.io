@@ -1,7 +1,7 @@
 <html lang= "en">
 <html>
 <head>
-
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type= "text/css" href="gsss.css" />
 <link rel=" icon" href="/hpbose.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/hpbose.ICO" type="image/x-icon"/>
