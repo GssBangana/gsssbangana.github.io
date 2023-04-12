@@ -12,8 +12,60 @@
 Home | GSSSBangana
 </title>
 <link rel="stylesheets" href="gsss.csss">
+<div class="topnav">
+<a class= "active" href="https://gsssbangana.github.io/">Home</a>
+ <a href="#">About Us</a>
+
+
+<a href="#"><details> <summary>Academics </summary><div class="column">
+
+  <form action="Results.html">
+<button type="submit" class="button"/> Results</button>
+</form>
+  <form action="#">
+<button type="submit" class="button"/> Student Achievers</button>
+</form>
+ <form action="#">
+<button type="submit" class="button"/> Teacher Achievers</button>
+</form>
+ <form action="#">
+<button type="submit" class="button"/> Academic Records</button>
+</form>
+</div></details></a>
+
+ <a href="#"><details> <summary> Students Section</summary><div class="column">
+
+  <form action="Results.html">
+
+<button type="submit" class="button"/> Results</button>
+</form>
+  <form action="#">
+<button type="submit" class="button"/> Student Achievers</button>
+</form>
+ <form action="#">
+<button type="submit" class="button"/> Teacher Achievers</button>
+</form>
+ <form action="#">
+<button type="submit" class="button"/> Academic Records</button>
+</form>
+</div></details></a>
+ <a href="#" > Activities</a>
+ 
+<a href="#" >Gallery</a>
+<a href="#" >Resources</a>
+ <a href="#">Administration</a>
+  <a href="#">Contact Us</a></div>
+ 
+
+
 </head>
 <body>
-Welcome to GSSS Bangana
+<br><br><br>
+<align="left"><div id="container"><div>
+<a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
+&nbsp; &nbsp;</div><div> <p> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION</div></div>
+
+<p> GSSS Bangana</p>
+<p color="red">District Una, Himachal Pradesh</p> <hr>
 </body>
 </html>
