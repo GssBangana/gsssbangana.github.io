@@ -61,11 +61,9 @@ Home | GSSSBangana
 </head>
 <body>
 <br><br><br>
-<align="left"><div id="container"><div>
-<a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
+<div id="container"><div>
+<a href="https://gsssbangana.github.io/"><img src="https://i.imgur.com/DG2HG8s.png" width="100"></a>
 &nbsp; &nbsp;</div><div> <p> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION</div></div>
 
 <p> GSSS Bangana</p>
 <p color="red">District Una, Himachal Pradesh</p> <hr>
-</body>
-</html>
