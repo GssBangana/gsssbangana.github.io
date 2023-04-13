@@ -47,7 +47,7 @@ p span {
 <a href="Administration.html">Administration</a>
 <a href="Contacts.html">Contact Us</a>
 
-  </a>
+
 </div>
 
 
