@@ -45,7 +45,7 @@ Home | GSSSBangana
 
 
 <body>
-<br><br><br><br><br><br>
+<br>
 <div id="container"><div>
 <a href="https://gsssbangana.github.io/"><img src="https://i.imgur.com/DG2HG8s.png" width="100"></a>
 &nbsp; &nbsp;</div><div> <p> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
