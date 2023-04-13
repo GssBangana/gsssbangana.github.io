@@ -13,7 +13,7 @@ Home | GSSSBangana
 </title>
 <link rel="stylesheets" href="gsss.csss">
 <div class="navbar">
-  <div class="mobile-container">
+  
   <a class = "active" href="https://gsssbangana.github.io/">Home</a>
   
   <div class="dropdown">
@@ -40,7 +40,7 @@ Home | GSSSBangana
 <a href="#home">Activities</a>
 <a href="#home">Administration</a>
 <a href="#home">Contact Us</a>
-  </div></div>
+  </div>
  
 
 
