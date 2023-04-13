@@ -20,7 +20,7 @@ p span {
 <body>
 
 <div class="navbar">
-  <a class = "active" href="home.html">Home</a>
+  <a class = "active" href="https://gsssbangana.github.io/">Home</a>
   
   <div class="dropdown">
     <button class="dropbtn">Academics 
