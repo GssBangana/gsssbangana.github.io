@@ -12,54 +12,34 @@
 Home | GSSSBangana
 </title>
 <link rel="stylesheets" href="gsss.csss">
-<div class="topnav">
-
-
-<a class= "active" href="https://gsssbangana.github.io/">Home</a>
-
-
-
-<a href="#"><details> <summary>Academics </summary><div class="column">
-
-  <form action="Results.html">
-<button type="submit" class="button"/> Results
-</form>
-  <form action="#">
-<button type="submit" class="button"/> Student Achievers
-</form>
- <form action="#">
-<button type="submit" class="button"/> Teacher Achievers
-</form>
- <form action="#">
-<button type="submit" class="button"/> Academic Records
-</form>
-</div></details></a>
- <a href="#" > Activities</a>
-
- <a href="#"><details> <summary> Students Section</summary><div class="column">
-
-  <form action="Results.html">
-
-<button type="submit" class="button"/> Results
-</form>
-  <form action="#">
-<button type="submit" class="button"/> Student Achievers
-</form>
- <form action="#">
-<button type="submit" class="button"/> Teacher Achievers
-</form>
- <form action="#">
-<button type="submit" class="button"/> Academic Records
-</form>
-</div></details></a>
-<a href="#">Administration</a>
- 
-<a href="#" >Gallery</a>
-<a href="#" >Resources</a>
- 
- <a href="#">About Us</a>
-
-  </div>
+<div class="navbar">
+  <a class = "active" href="https://gsssbangana.github.io/">Home</a>
+  
+  <div class="dropdown">
+    <button class="dropbtn">Academics 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Results</a>
+      <a href="#">Student Achievers</a>
+      <a href="#">Teacher Achivers</a>
+<a href="#">Academic Records</a>
+   </div></div>
+      <div class="dropdown">
+    <button class="dropbtn">Students Section
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Rescources(Study Material)</a>
+      <a href="#">Creative Corner</a>
+      <a href="#">Sports Corner</a>
+ <a href="#">Literature (a-z)</a>
+    </div>
+  </div> 
+<a href="#home">Activities</a>
+<a href="#home">Administration</a>
+<a href="#home">Contact Us</a>
+</div>
  
 
 
