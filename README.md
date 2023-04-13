@@ -1,7 +1,7 @@
 <html lang= "en">
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name= "viewport" content="width=device-vidth, initial-scale= 1, maximum-scale=1, user-scalable=no">
 <link rel="stylesheet" type= "text/css" href="gsss.css" />
 <link rel=" icon" href="/hpbose.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/hpbose.ICO" type="image/x-icon"/>
@@ -12,44 +12,54 @@
 Home | GSSSBangana
 </title>
 <link rel="stylesheets" href="gsss.csss">
+<style>
+p span {
+        background-color: yellow;
+      }
+</style>
+<body>
+
 <div class="navbar">
-  
-  <a class = "active" href="https://gsssbangana.github.io/">Home</a>
+  <a class = "active" href="home.html">Home</a>
   
   <div class="dropdown">
     <button class="dropbtn">Academics 
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Results</a>
-      <a href="#">Student Achievers</a>
-      <a href="#">Teacher Achivers</a>
-<a href="#">Academic Records</a>
+      <a href="Results.html">Results</a>
+   <a  href="#">Student Achievers</a>
+      <a href="Teacher Achievers.html">Teacher Achievers</a>
+<a href="Academic Records.html">Academic Records</a>
    </div></div>
       <div class="dropdown">
     <button class="dropbtn">Students Section
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Rescources(Study Material)</a>
-      <a href="#">Creative Corner</a>
-      <a href="#">Sports Corner</a>
- <a href="#">Literature (a-z)</a>
+      <a href="Resources(Study Material).html">Resources(Study Material)</a>
+      <a href="Creative Corner.html">Creative Corner</a>
+      <a href="Sports Corner.html">Sports Corner</a>
+ <a href="Literature (a-z).html">Literature (a-z)</a>
     </div>
   </div> 
-<a href="#home">Activities</a>
-<a href="#home">Administration</a>
-<a href="#home">Contact Us</a>
-  </div>
- 
+<a href="Activities.html">Activities</a>
+<a href="Administration.html">Administration</a>
+<a href="Contacts.html">Contact Us</a>
+
+  </a>
+</div>
 
 
 
+</head>
 <body>
 <br>
-<div id="container"><div>
-<a href="https://gsssbangana.github.io/"><img src="https://i.imgur.com/DG2HG8s.png" width="100"></a>
-&nbsp; &nbsp;</div><div> <p> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 
-<p> GSSS Bangana</p>
-<p color="red">District Una, Himachal Pradesh</p> <hr>
+<a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
+&nbsp; &nbsp;<p><span> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
+<br>
+ GSSS Bangana,
+<br>District Una, Himachal Pradesh</span></p> <hr>
+</body>
+</html>
