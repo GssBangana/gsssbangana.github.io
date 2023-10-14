@@ -87,6 +87,6 @@
 &nbsp; &nbsp;<p><span> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 <br>
  GSSS Bangana,
-<br>District Una, Himachal Pradesh</span></p> <hr>
+<br>District Una, Himachal Pradesh <hr>
 
 
