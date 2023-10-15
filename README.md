@@ -103,7 +103,7 @@
 <br>
 
 <a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
-&nbsp; &nbsp; <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
+&nbsp; &nbsp; <br> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 <br>
  GSSS Bangana,
 <br>District Una, Himachal Pradesh  </font><hr>
