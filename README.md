@@ -11,6 +11,7 @@
 <meta property="og:image" content="https://i.imgur.com/DG2HG8s.png">
 <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png"/>
 <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png"/>
+
 </head>
 <body>
 <nav id="ddmenu">
@@ -55,6 +56,24 @@
                 </div>
             </div>
         </li>
+    <li>
+            <a class="top-heading"> Features </a>
+            <i class="caret"></i>
+            <div class="dropdown">
+                <div class="dd-inner">
+                   
+                    <ul class="column">
+                     
+                        <li><a href="https://gsssbangana.github.io/Students_Section/Resources(Study Material)">Syllabus</a></li>
+                        <li><a href="https://gsssbangana.github.io/Students_Section/Creative_Corner">Infrastructure</a></li>
+                        <li><a href="https://gsssbangana.github.io/Students_Section/Sports_Corner">Houses</a></li>
+                      <li><a href="https://gsssbangana.github.io/Students_Section/Sports_Corner">Houses</a></li>
+                       
+                    </ul>
+                   
+                </div>
+            </div>
+        </li>
        
         <li>
             <a class="top-heading"> Activities</a>
@@ -63,9 +82,9 @@
                 <div class="dd-inner">
                 
                     <ul class="column">
-    <li><h3>Holidays, Vacation and others</h3></li>
-                        <li><a href="https://gsssbangana.github.io/Activities/Public_Holidays"> Public Holidays</a></li>
-                        <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Vacation Schedule</a></li>
+    <li><h3></h3>Gallery, Holidays And Others</li>
+                        <li><a href="https://gsssbangana.github.io/Activities/Gallery"> Gallery</a></li>
+                        <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Holidays And Vacation Schedule</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Get_Homework">Homework</a></li>
                     </ul>
  <li class="no-sub">
@@ -87,6 +106,11 @@
 &nbsp; &nbsp;<p><span> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 <br>
  GSSS Bangana,
-<br>District Una, Himachal Pradesh <hr>
-
-
+<br>District Una, Himachal Pradesh </span></p> </font><hr>
+<img src="School01.png" width="100%" border="2">
+<br>
+<hr>
+<div border="2">
+<h2> Words From The School Principal</h2>
+</body>
+</html>
