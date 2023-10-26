@@ -8,12 +8,41 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding-left: 0%;
-    background-color: white;
+   
 background:relative;
 
 background-color: white;
-    color: #fffff8;
-    max-width: 85%;
+    color: black;
+    max-width: 95%;
+}
+table, th, td {
+  border: 2px solid black;
+padding: 8px;
+margin: 5px;
+width:device-width;
+background-color: seagreen;
+  border-collapse: collapse;
+font-size: 18px;
+}
+#container {
+width:device-width;
+  display: flex;
+gap: 50px;
+  flex-wrap: wrap;
+}
+
+button {
+border-radius: 20px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 2px;
+  cursor: pointer;
+background-color:blue;
 }
 
 a:link,
@@ -266,6 +295,7 @@ border-right:1px solid #999;
   outline: 0;
   cursor: pointer;
   margin: 0 10px;
+max-width:95%;
 }
     /*override the original settings*/
     #ddmenu ul {
@@ -387,14 +417,37 @@ line-height: 35px;
 }
 
 table, th, td {
-  border: 1px solid white;
-padding: 8px;
-margin: 5px;
+  border: 2px solid black;
+padding: 5px;
+margin: 3px;
 width:device-width;
-background-color: rgba(0,0,0,0.5);
+background-color: seagreen;
   border-collapse: collapse;
+font-size:12px;
+margin:29px 0px 15px;
+}
+#container {
+width:device-width;
+  display: flex;
+gap: 10px;
+  flex-wrap: wrap;
 }
 
+button {
+border-radius: 20px;
+  border: none;
+  color: white;
+  padding: 13px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+background-color:blue;
+
+
+}
 
 
 
