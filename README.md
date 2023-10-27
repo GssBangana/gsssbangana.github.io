@@ -128,4 +128,4 @@
 <footer>
 <p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
-</footer>
+
