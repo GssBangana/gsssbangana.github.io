@@ -12,8 +12,8 @@ body {
 background:relative;
 
 background-color: white;
-    color: #fffff8;
-    max-width: 85%;
+    color: black;
+    max-width: 95%;
 }
 
 a:link,
@@ -394,7 +394,6 @@ width:device-width;
 background-color: rgba(0,0,0,0.5);
   border-collapse: collapse;
 }
-
 
 
 
