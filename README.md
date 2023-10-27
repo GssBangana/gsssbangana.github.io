@@ -119,13 +119,12 @@
 <div border="2">
 <h2>Words from the school principal:-</h2>
 <div id="container">
-
-<img src="images/man.png" width="200px"> 
-
+<div id="photo">
+<img src="images/man.png" width="150px"> 
+</div>
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 </div>
 <br>
 <footer>
 <p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
-
