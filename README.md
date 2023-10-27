@@ -67,7 +67,8 @@
                         <li><a href="https://gsssbangana.github.io/Students_Section/Resources(Study Material)">Syllabus</a></li>
                         <li><a href="https://gsssbangana.github.io/Students_Section/Creative_Corner">Infrastructure</a></li>
                         <li><a href="https://gsssbangana.github.io/Students_Section/Sports_Corner">Houses</a></li>
-                     
+                      
+                       
                     </ul>
                    
                 </div>
@@ -81,7 +82,7 @@
                 <div class="dd-inner">
                 
                     <ul class="column">
-    <li><h3>Gallery, Holidays And Others</h3></li>
+    <li><h3></h3>Gallery, Holidays And Others</li>
                         <li><a href="https://gsssbangana.github.io/Activities/Gallery"> Gallery</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Holidays And Vacation Schedule</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Get_Homework">Homework</a></li>
@@ -89,9 +90,14 @@
  <li class="no-sub">
             <a class="top-heading" href="https://gsssbangana.github.io/Administration">Administration</a>
         </li>
- <li class="no-sub">
+ 
+<li class="no-sub">
+            <a class="top-heading" href="https://gsssbangana.github.io/About_Us">About Us</a>
+ </li>
+<li class="no-sub">
             <a class="top-heading" href="https://gsssbangana.github.io/Contacts">Contact Us</a>
         </li>
+       
                 </div>
             </div>
         </li>
@@ -102,13 +108,24 @@
 <br>
 
 <a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
-&nbsp; &nbsp; <br> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
+&nbsp; &nbsp;<br> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 <br>
  GSSS Bangana,
-<br>District Una, Himachal Pradesh  </font><hr>
+<br>District Una, Himachal Pradesh</font><hr>
 <img src="School01.png" width="100%" border="2">
+
 <br>
 <hr>
 <div border="2">
-<h2> Words From The School Principal</h2>
+<h2>Words from the school principal:-</h2>
+<div id="container">
 
+<img src="images/man.png" width="200px"> 
+
+<p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
+</div>
+<br>
+<footer>
+<p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
+<p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
+</footer>
