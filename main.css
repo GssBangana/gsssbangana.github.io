@@ -468,6 +468,7 @@ background-color:blue;
 
 }
 iframe {width:99%;
+height:50%;
  border:2px solid black; 
  border:2px solid;
  blackloadingL:"lazy"}
@@ -489,4 +490,5 @@ border:1px solid grey;
 background-color: red;
 font: white;
 font-size:15px;}
+#photo img {width:100px;}
 
