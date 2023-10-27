@@ -13,8 +13,9 @@ background:relative;
 
 background-color: white;
     color: black;
-    max-width: 95%;
+    max-width: 98%;
 }
+
 table, th, td {
   border: 1px solid black;
 padding: 10px;
@@ -44,7 +45,25 @@ border-radius: 20px;
   cursor: pointer;
 background-color:blue;
 }
+footer {max-width:100%;
+border:1px solid grey;
+background-color: black;
+color: white;
+font-size:15px;}
+header
+{max-width:100%;
+border:1px solid grey;
+background-color: black;
+color: white;
+font-size:15px;}
 
+
+#better{width:99%;
+border:1px solid grey;
+background-color: red;
+color: white;
+font-size:15px;
+border-radius:5px;}
 a:link,
 a:visited 
 {
@@ -427,9 +446,9 @@ font-size:12px;
 margin:29px 0px 15px;
 }
 #container {
-width:device-width;
+width:99%;
   display: flex;
-gap: 10px;
+gap: 5px;
   flex-wrap: wrap;
 }
 
@@ -448,7 +467,26 @@ background-color:blue;
 
 
 }
+iframe {width:99%;
+ border:2px solid black; 
+ border:2px solid;
+ blackloadingL:"lazy"}
+ 
+footer {width:99%;
+border:1px solid grey;
+background-color: black;
+font: white;
+font-size:15px;}
 
+header {width:99%;
+border:1px solid grey;
+background-color: black;
+font: white;
+font-size:15px;}
 
-
+better{width:99%;
+border:1px solid grey;
+background-color: red;
+font: white;
+font-size:15px;}
 
