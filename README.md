@@ -163,6 +163,8 @@
 
 
 </div>
+</div>
+</cure>
 <br>
 <footer>
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
