@@ -161,7 +161,7 @@
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 
 
-</cure>
+
 </div>
 <br>
 <footer>
