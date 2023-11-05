@@ -125,7 +125,7 @@
 <br>
 <div class="anli">
 <announcements>
-<h2 align="center">Announcements- <a href="announcements.html">View All</a> </h2></announcements>
+<h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements.html">View All</a> </h2></announcements>
 
 <ul> 
 <marquee direction="up" scrollamount="3">
