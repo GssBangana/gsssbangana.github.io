@@ -449,7 +449,16 @@ line-height: 35px;
     }
 
 
+cure { max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+   display:block;
+background:relative;
 
+
+background-color: white;
+    color: black;}
 
 
 #container {
