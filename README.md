@@ -4,9 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home | GSSSBangana</title>
     <link href="main.css" rel="stylesheet" type="text/css" />
-    <link href="show.css" rel="stylesheet" type="text/css" />
-    <script src="show.js" type="text/javascript"></script>
-    <script src="java.js" type="text/javascript"></script>
+  <script src="java.js" type="text/javascript"></script>
    <link rel=" icon" href="/hpbose.ICO" type="image/x-icon"/>
 <link rel="shortcut icon" href="/hpbose.ICO" type="image/x-icon"/>
 <meta name="description" content=""/>
@@ -115,48 +113,57 @@
 <br>
  GSSS Bangana,
 <br>District Una, Himachal Pradesh</font><hr>
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <img src="images/School01.png" style="width:100%">
-  <div class="text">Main Building</div>
+<center>
+<div id="object">
+<img src="images/School01.png"  alt="centered-image">
+  <div class="text"><u>Main Building</u></div>
 </div>
-
-<div class="mySlides fade">
-  <img src="images/School02.png" style="width:100%">
-  <div class="text">Main Building</div>
-</div>
-
-<div class="mySlides fade">
-  <img src="images/School01.png" style="width:100%">
-  <div class="text">Main Building</div>
-</div>
-
-<a class="prev" onclick="plusSlides(-1)">❮</a>
-<a class="next" onclick="plusSlides(1)">❯</a>
-
-</div>
+</center>
 <br>
+<div class="anli">
+<announcements>
+<h2 align="center">Announcements- <a href="announcements.html">View All</a> </h2></announcements>
 
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
-  <span class="dot" onclick="currentSlide(3)"></span> 
-</div>
-
+<ul> 
+<marquee direction="up" scrollamount="3">
+<p align="center"> <a href="#">Regarding exams conducted on dated --/--/2023</a></p>
 <br>
-<hr>
+ <p align="center"><a href="#">Regarding Results of exams conducted on dated --/--/2023</a> </p>
+<br>
+ <p align="center"><a href="#">Coming-up events (2023)</a> </p>
+<br>
+ <p align="center"><a href="#">Holidays Homework for vacation period --/--/2023 to --/--/2023</a> </p>
+</marquee>
+</ul></div>
+
+<h2> Our <unlight><hilight>Vision</hilight></unlight>:-</h2>
+<beauty>
+<p> We not only take care of the educational needs of children but also prepare them for future.</p>
+<p> We synthesise bright future for the country and world. We believe that whole world is a family and education helps us in communicating not just ideas but also help us in living in harmony in a civilised society. </p>
+</beauty> 
+<br>
+<h2> Our <unlight><hilight>Motto</hilight></unlight>:-</h2>
+<beauty>
+<li> To attain discipline without boredom and to enjoy freedom knowing the limits. </li>
+<li> To curate the vision of "world is a family". </li>
+<li> To respect and to live in harmony. </li>
+
+</beauty> 
 <div border="2">
 <h2>Words from the school principal:-</h2>
 <div id="container">
-<div id="photo">
+<div id="person">
 <img src="images/man.png" width="100px"> 
 </div>
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
+
+
+</cure>
 </div>
 <br>
-</div>
-</cure>
 <footer>
+<p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
+<br>
 <p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
+
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
