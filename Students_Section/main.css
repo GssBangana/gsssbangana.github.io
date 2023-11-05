@@ -4,7 +4,8 @@
   }
 }
 body {
-    width: 100%;
+
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     padding-left: 0%;
@@ -13,14 +14,27 @@ background:relative;
 
 background-color: white;
     color: black;
-    max-width: 95%;
+    
+
+
 }
+cure { max-width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+   display:block;
+background:relative;
+
+background-color: white;
+    color: black;}
+
+
 table, th, td {
-  border: 2px solid black;
-padding: 8px;
-margin: 5px;
+  border: 1px solid black;
+padding: 10px;
+margin: 10px;
 width:device-width;
-background-color: seagreen;
+
   border-collapse: collapse;
 font-size: 18px;
 }
@@ -44,12 +58,37 @@ border-radius: 20px;
   cursor: pointer;
 background-color:blue;
 }
+footer {max-width:100%;
+border:1px solid grey;
+background-color: black;
+color: white;
+font-size:15px;}
+header
+{max-width:100%;
+border:1px solid grey;
+background-color: black;
+color: white;
+font-size:15px;}
+
+
+#better{width:99%;
+border:1px solid grey;
+background-color: #CA1919;
+padding:8px 6px;
+color: white;
+font-size:15px;
+border-radius:5px;
+display:block;}
 
 a:link,
 a:visited 
 {
     color: inherit;
 }
+
+
+
+
 
 #ddmenu
 {
@@ -421,15 +460,15 @@ table, th, td {
 padding: 5px;
 margin: 3px;
 width:device-width;
-background-color: seagreen;
+
   border-collapse: collapse;
 font-size:12px;
 margin:29px 0px 15px;
 }
 #container {
-width:device-width;
+width:99%;
   display: flex;
-gap: 10px;
+gap: 5px;
   flex-wrap: wrap;
 }
 
@@ -448,7 +487,38 @@ background-color:blue;
 
 
 }
+iframe {width:99%;
+height:50%;
+ border:2px solid black; 
+ border:2px solid;
+ blackloadingL:"lazy"}
+ 
+footer {width:99%;
+border:1px solid grey;
+background-color: black;
+font: white;
+font-size:15px;}
 
+header {width:99%;
+border:1px solid grey;
+background-color: black;
+font: white;
+font-size:15px;}
 
+better{width:99%;
+border:1px solid grey;
+background-color: red;
+padding:8px;
+font: white;
+font-size:15px;}
 
+#better{width:auto;
+border:1px solid grey;
+background-color: red;
+padding:3px 3px;
+color: white;
+text-align:center;
+font-size:15px;
+border-radius:5px;}
+#photo img {width:100px;}
 
