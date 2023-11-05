@@ -19,6 +19,24 @@ background-color: white;
 
 
 }
+h2{font-size:35px;
+font-family:"Times New Roman", Times, serif;}
+
+
+#object img{vertical-align: middle;
+ width:70%;
+border-radius:15px;
+}
+.text {
+ 
+  font-size: 20px;
+  padding: 6px 8px;
+  width: 100%;
+color:black;
+  text-align: center;
+}
+
+
 table, th, td {
   border: 1px solid black;
 padding: 10px;
@@ -89,9 +107,42 @@ a:visited
     color: inherit;
 }
 
+announcements {display:block;
+color:red;
+border:2px solid black;
+vertical-align: center;
+  line-height:4em;
+ -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 
+background-color:#EEB12C;
+padding:6px 10px;
+margin:auto;
+border-radius:12px;
+}
 
+.anli  {display:block;
+ border:2px solid grey;
 
+background-color:#F5C256;
 
+color:red;
+text-align: inherit;
+font-family: EB Garamond;
+border-radius:12px;
+}
+
+hilight {color:blue;}
+unlight {text-decoration: bold underline;
+color:blue;
+}
+beauty {display:block;
+padding:8px 30px;
+margin:auto;
+
+background-color:#3B8DE1;
+}
 
 #ddmenu
 {
@@ -509,7 +560,7 @@ footer {width:99%;
 border:1px solid grey;
 background-color: black;
 font: white;
-font-size:15px;}
+font-size:11px;}
 
 header {width:99%;
 border:1px solid grey;
@@ -524,13 +575,36 @@ padding:8px;
 font: white;
 font-size:15px;}
 
+
+
+h2{font-size:20px;
+font-family:"Times New Roman", Times, serif;}
+p{font-size:13px;}
+
+
+
+
 #better{width:auto;
 border:1px solid grey;
 background-color: red;
 padding:3px 3px;
 color: white;
 text-align:center;
-font-size:15px;
+font-size:25px;
 border-radius:5px;}
-#photo img {width:100px;}
+
+
+#object img{vertical-align: middle;
+width:85%;
+border-radius:15px;
+}
+#person img {width:75px;}
+.text {
+ 
+  font-size: 13px;
+  padding: 6px 8px;
+  width: 100%;
+color:black;
+  text-align: center;
+}
 
