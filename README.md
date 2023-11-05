@@ -121,7 +121,7 @@
 <h2>Words from the school principal:-</h2>
 <div id="container">
 <div id="photo">
-<img src="images/man.png" width="150px"> 
+<img src="images/man.png" width="100px"> 
 </div>
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 </div>
