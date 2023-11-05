@@ -14,6 +14,7 @@
 
 </head>
 <body>
+    <cure>
 <nav id="ddmenu">
     <div class="menu-icon"></div>
     <ul>
@@ -125,6 +126,8 @@
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 </div>
 <br>
+</div>
+</cure>
 <footer>
 <p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
