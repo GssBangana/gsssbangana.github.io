@@ -157,9 +157,63 @@
 </div>
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 
-
-</cure>
 </div>
+
+<center>
+<div id="object">
+<img src="images/School01.png"  alt="centered-image">
+  <div class="text"><u>Main Building</u></div>
+</div>
+</center>
+<br>
+<div class="anli">
+<announcements>
+<h2 align="center">Announcements- <a href="announcements.html">View All</a> </h2></announcements>
+
+<ul> 
+<marquee direction="up" scrollamount="3">
+<p align="center"> <a href="#">Regarding exams conducted on dated --/--/2023</a></p>
+<br>
+ <p align="center"><a href="#">Regarding Results of exams conducted on dated --/--/2023</a> </p>
+<br>
+ <p align="center"><a href="#">Coming-up events (2023)</a> </p>
+<br>
+ <p align="center"><a href="#">Holidays Homework for vacation period --/--/2023 to --/--/2023</a> </p>
+</marquee>
+</ul></div>
+
+<h2> Our <unlight><hilight>Vision</hilight></unlight>:-</h2>
+<beauty>
+<p> We not only take care of the educational needs of children but also prepare them for future.</p>
+<p> We synthesise bright future for the country and world. We believe that whole world is a family and education helps us in communicating not just ideas but also help us in living in harmony in a civilised society. </p>
+</beauty> 
+<br>
+<h2> Our <unlight><hilight>Motto</hilight></unlight>:-</h2>
+<beauty>
+<li> To attain discipline without boredom and to enjoy freedom knowing the limits. </li>
+<li> To curate the vision of "world is a family". </li>
+<li> To respect and to live in harmony. </li>
+
+</beauty> 
+<div border="2">
+<h2>Words from the school principal:-</h2>
+<div id="container">
+<div id="person">
+<img src="images/man.png" width="100px"> 
+</div>
+<p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
+
+
+
+</div>
+</cure>
+<br>
+<footer>
+<p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
+<br>
+<p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
+
+<p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
 <br>
 <footer>
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
