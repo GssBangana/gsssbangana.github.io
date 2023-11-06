@@ -50,8 +50,8 @@ gap: 50px;
 
 button {
 border-radius: 20px;
-  border: none;
-  color: white;
+  border-left: 8px solid blue;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -59,7 +59,7 @@ border-radius: 20px;
   font-size: 14px;
   margin: 2px 2px;
   cursor: pointer;
-background-color:blue;
+;
 }
 footer {max-width:100%;
 border:1px solid grey;
@@ -486,8 +486,8 @@ gap: 5px;
 
 button {
 border-radius: 20px;
-  border: none;
-  color: white;
+  border-left: 6px solid blue;
+  color:black;
   padding: 13px 28px;
   text-align: center;
   text-decoration: none;
@@ -495,7 +495,7 @@ border-radius: 20px;
   font-size: 10px;
   margin: 2px 2px;
   cursor: pointer;
-background-color:blue;
+
 
 
 }
