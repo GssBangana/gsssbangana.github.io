@@ -85,7 +85,7 @@
                 <div class="dd-inner">
                 
                     <ul class="column">
-    <li><h3></h3>Gallery, Holidays And Others</li>
+    <li><h3>Gallery, Holidays And Others</h3></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Gallery"> Gallery</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Holidays And Vacation Schedule</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Get_Homework">Homework</a></li>
