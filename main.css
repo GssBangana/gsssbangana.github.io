@@ -108,15 +108,15 @@ a:visited
 }
 
 announcements {display:block;
-color:red;
-border:2px solid black;
+color:white;
+border:2px solid #870576;
 vertical-align: center;
-  line-height:4em;
+  line-height:2em;
  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
  
-background-color:#EEB12C;
+background-color:#C505AB;
 padding:6px 10px;
 margin:auto;
 border-radius:12px;
@@ -125,12 +125,12 @@ border-radius:12px;
 .anli  {display:block;
  border:2px solid grey;
 
-background-color:#F5C256;
+background-color:#F42ED9;
 
-color:red;
+color:white;
 text-align: inherit;
 font-family: EB Garamond;
-border-radius:12px;
+border-radius:13px;
 }
 
 hilight {color:blue;}
