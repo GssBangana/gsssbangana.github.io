@@ -108,15 +108,15 @@ a:visited
 }
 
 announcements {display:block;
-color:white;
-border:2px solid #870576;
+color:red;
+border:2px solid black;
 vertical-align: center;
   line-height:2em;
  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
  
-background-color:#C505AB;
+background-color:#EEB12C;
 padding:6px 10px;
 margin:auto;
 border-radius:12px;
@@ -124,11 +124,11 @@ border-radius:12px;
 
 .anli  {display:block;
  border:2px solid grey;
+ line-height:4em;
+background-color:#F5C256;
 
-background-color:#F42ED9;
-
-color:white;
-text-align: inherit;
+color:red;
+text-align:center;
 font-family: EB Garamond;
 border-radius:13px;
 }
