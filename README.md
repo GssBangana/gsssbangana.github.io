@@ -70,7 +70,7 @@
                        <li><a href="https://gsssbangana.github.io/Features/Syllabus">Syllabus</a></li>
                         <li><a href="https://gsssbangana.github.io/Features/Infrastructure">Infrastructure</a></li>
                         <li><a href="https://gsssbangana.github.io/Features/Houses">Houses</a></li>
-                      
+                      <li><a href="https://gsssbangana.github.io/Features/Clubs">Clubs</a></li>
                        
                     </ul>
                    
@@ -125,13 +125,13 @@
 <br>
 <div class="anli">
 <announcements>
-<h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements.html">View All</a> </h2></announcements>
+<h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements">View All</a> </h2></announcements>
 
 <ul> 
 <marquee direction="up" scrollamount="3">
-<p align="center"> <a href="#">Regarding exams conducted on dated --/--/2023</a></p>
+<p align="center"> <a href="#">Regarding exams conducted on date --/--/2023</a></p>
 <br>
- <p align="center"><a href="#">Regarding Results of exams conducted on dated --/--/2023</a> </p>
+ <p align="center"><a href="#">Regarding Results of exams conducted on date --/--/2023</a> </p>
 <br>
  <p align="center"><a href="#">Coming-up events (2023)</a> </p>
 <br>
