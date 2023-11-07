@@ -85,7 +85,7 @@
                 <div class="dd-inner">
                 
                     <ul class="column">
-    <li><h3>Gallery, Holidays And Others</h3></li>
+    <li><h3></h3>Gallery, Holidays And Others</li>
                         <li><a href="https://gsssbangana.github.io/Activities/Gallery"> Gallery</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Holidays And Vacation Schedule</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Get_Homework">Homework</a></li>
@@ -123,7 +123,12 @@
 </div>
 </center>
 <br>
+<div class="container1">
+<div>
+
+ <div class="item">
 <div class="anli">
+
 <announcements>
 <h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements">View All</a> </h2></announcements>
 
@@ -137,7 +142,12 @@
 <br>
  <p align="center"><a href="#">Holidays Homework for vacation period --/--/2023 to --/--/2023</a> </p>
 </marquee>
-</ul></div>
+</ul></div> </div> 
+
+
+ 
+<div class="item">
+
 
 <h2> Our <unlight><hilight>Vision</hilight></unlight>:-</h2>
 <beauty>
@@ -145,6 +155,8 @@
 <p> We synthesise bright future for the country and world. We believe that whole world is a family and education helps us in communicating not just ideas but also help us in living in harmony in a civilised society. </p>
 </beauty> 
 <br>
+
+
 <h2> Our <unlight><hilight>Motto</hilight></unlight>:-</h2>
 <beauty>
 <li> To attain discipline without boredom and to enjoy freedom knowing the limits. </li>
@@ -152,6 +164,13 @@
 <li> To respect and to live in harmony. </li>
 
 </beauty> 
+</div>
+</div>
+</div>
+<br>
+<br>
+<hr>
+
 <div border="2">
 <h2>Words from the school principal:-</h2>
 <div id="container">
