@@ -13,7 +13,7 @@ body {
    margin:5px 0px 0px 0px;
 background:relative;
 
-background-color: white;
+
     color: black;
     
 
@@ -49,6 +49,10 @@ width:device-width;
 
   border-collapse: collapse;
 font-size: 18px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
 
 cure { max-width: 98%;
@@ -98,7 +102,9 @@ header
 border:1px solid grey;
 background-color: #5F6BE0;
 color: white;
-font-size:15px;}
+font-size:15px;
+
+}
 
 
 #better{width:99%;
@@ -152,7 +158,9 @@ margin:auto;
 
 background-color:#3B8DE1;
 }
-
+.gallery{
+border: 2px solid black;
+max-width:100%}
 #ddmenu
 {
     display:block;
@@ -526,9 +534,30 @@ background-color: white;
   display: flex;
   flex-wrap: wrap;
 }
+.container1 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:50px;
+}
+ .item {margin-left:25px;
+            width: 33.33%;
+            float: left;
+display:grid;
+
+
+        }
+.left-column {
+  width: 50%;
+}
+
+.right-column {
+  width: 50%;
+}
+
 
 table, th, td {
-  border: 2px solid black;
+  border: 1px solid black;
 padding: 5px;
 margin: 3px;
 width:device-width;
@@ -540,7 +569,7 @@ margin:29px 0px 15px;
 #container {
 width:99%;
   display: flex;
-gap: 5px;
+gap: 10px;
   flex-wrap: wrap;
 }
 
@@ -573,7 +602,7 @@ font-size:11px;}
 
 header {width:99%;
 border:1px solid grey;
-background-color: #EEB12C;
+background-color:  #5F6BE0;
 font: red;
 font-size:15px;}
 
