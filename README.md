@@ -192,25 +192,22 @@
 <br>
 <footer>
 <font size="2">
-<div class="container1">
+<div id="container">
 <br>
 
 <div>
-     <div class="item">
 <p align="center"> Quick links </p>
 
 <p>  &nbsp;    &nbsp;  -<a href='https://gsssbangana.github.io/Administration'>Administration</a>&nbsp;    &nbsp; </p>
 <p>    &nbsp;    &nbsp;    -<a href='https://gsssbangana.github.io/About_Us' text-decoration="none">About Us</a>&nbsp;    &nbsp; </p>
 <p>     &nbsp;    &nbsp;   -<a href='https://gsssbangana.github.io/Contacts'> Contacts</a> &nbsp;    &nbsp;</p>
+
+
 </div>
-
-
- <div class="item">
+<div>
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
 <br>
 <p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
+
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
-
 </div>
-
-
