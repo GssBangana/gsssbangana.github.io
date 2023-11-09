@@ -204,7 +204,7 @@
 
 
 </div>
-<div display="block">
+<div>
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
 <br>
 <p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
@@ -212,8 +212,8 @@
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
 </div>
 
-<div align="righ">
+<div>
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.0904126441606!2d76.3464936739279!3d31.628883355705987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b29e8a9d53905%3A0x5a09016f8c0150c2!2sGovernment%20Senior%20Secondary%20School!5e0!3m2!1sen!2sin!4v1698417746425!5m2!1sen!2sin" align="right"  style="border:2px solid black;" allowfullscreen="" loading="fast" referrerpolicy="no-referrer-when-downgrade" w></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.0904126441606!2d76.3464936739279!3d31.628883355705987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b29e8a9d53905%3A0x5a09016f8c0150c2!2sGovernment%20Senior%20Secondary%20School!5e0!3m2!1sen!2sin!4v1698417746425!5m2!1sen!2sin" align="right"  style="border:2px solid black;" allowfullscreen="" loading="fast" width="200px" referrerpolicy="no-referrer-when-downgrade" w></iframe>
 </div>
 
