@@ -109,29 +109,29 @@
 </nav>
 
 <br>
-
-<a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100"></a>
+<center>
+<a href="https://gsssbangana.github.io/"><img src="hpboard.png" width="100px" class="center"></a>
 &nbsp; &nbsp;<br> <font color="red"> HIMACHAL PRADESH BOARD OF SCHOOL EDUCATION
 <br>
  GSSS Bangana,
 <br>District Una, Himachal Pradesh</font><hr>
-
+</center>
 <center>
 <div id="object">
 <img src="images/School01.png"  alt="centered-image">
   <div class="text"><u>Main Building</u></div>
 </div>
 </center>
+<hr>
 <br>
 <div class="container1">
 <div>
-
  <div class="item">
 <div class="anli">
 
 <announcements>
 <h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements">View All</a> </h2></announcements>
-
+<br>
 <ul> 
 <marquee direction="up" scrollamount="3">
 <p align="center"> <a href="#">Regarding exams conducted on date --/--/2023</a></p>
@@ -171,23 +171,49 @@
 <br>
 <hr>
 
-<div border="2">
+
+
+
+
+<center>
+
+<img src="images/man.png" width="100px"  class="roundimg"> 
+</center>
+<block1>
 <h2>Words from the school principal:-</h2>
-<div id="container">
-<div id="person">
-<img src="images/man.png" width="100px"> 
-</div>
+
 <p> Education is a key to the lock of prosper future, a lamp that leads us to the wisdom and a symbol of a civilized human. </p>
 
 
 
 </div>
 </div>
+</block1>
 </cure>
 <br>
 <footer>
+<font size="2">
+<div id="container">
+<br>
+
+<div>
+<p align="center"> Quick links </p>
+
+<p>  &nbsp;    &nbsp;  -<a href='https://gsssbangana.github.io/Administration'>Administration</a>&nbsp;    &nbsp; </p>
+<p>    &nbsp;    &nbsp;    -<a href='https://gsssbangana.github.io/About_Us' text-decoration="none">About Us</a>&nbsp;    &nbsp; </p>
+<p>     &nbsp;    &nbsp;   -<a href='https://gsssbangana.github.io/Contacts'> Contacts</a> &nbsp;    &nbsp;</p>
+
+
+</div>
+<div display="block">
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
 <br>
-<p align="center"> School comes under the Himachal Pradesh Board Of Secondary Education </p>
+<p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
 
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
+</div>
+
+<div align="righ">
+<br>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2140.0904126441606!2d76.3464936739279!3d31.628883355705987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b29e8a9d53905%3A0x5a09016f8c0150c2!2sGovernment%20Senior%20Secondary%20School!5e0!3m2!1sen!2sin!4v1698417746425!5m2!1sen!2sin" align="right"  style="border:2px solid black;" allowfullscreen="" loading="fast" referrerpolicy="no-referrer-when-downgrade" ></iframe>
+</div>
