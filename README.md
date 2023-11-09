@@ -210,4 +210,4 @@
 <p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
 
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
-</div>
+
