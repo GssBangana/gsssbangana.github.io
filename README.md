@@ -166,7 +166,7 @@
 </beauty> 
 </div>
 </div>
-</div>
+
 <br>
 <br>
 <hr>
@@ -193,7 +193,7 @@
 <footer>
 <font size="2">
 <div id="container">
-<br>
+
 
 <div>
 <p align="center"> Quick links </p>
@@ -213,11 +213,17 @@
 </div>
 
 <div>
-<p > Find us on: </p>
+<p align="center"> Find us on: </p>
 
 <a href="https://www.youtube.com/channel/UCkt6jHoPeACKuQqsvIUKlCw"> <img src="images/youtube.png" width="50px"> </a>
 
 <a href="#"> <img src="images/facebook.png" width="50px"> </a>
 </div>
 
-
+<div align="left">
+<p> Contact us: </p>
+<p> <strong>📞 Phone No. : </strong>
+76890xxxxx </p>
+<p><strong> 📧 Email: </strong>
+principalgsssbangana@gmail.com</p>
+</div>
