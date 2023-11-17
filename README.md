@@ -204,12 +204,14 @@
 
 
 </div>
+
+
 <div>
 <p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
-<br>
-<p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
 
-<p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
+<p align="center">  &nbsp;    &nbsp;School comes under HPBOSE </p>
+
+<p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a> </p>
 </div>
 
 <div>
