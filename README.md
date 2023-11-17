@@ -210,4 +210,20 @@
 <p align="center"  >  &nbsp;    &nbsp;School comes under HPBOSE</p>
 
 <p align="center"> For more information about the board, please visit <a href="https://hpbose.org">hpbose.org</a>
+</div>
 
+<div>
+<p align="center"> Find us on: </p>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCkt6jHoPeACKuQqsvIUKlCw"> <img src="images/youtube.png" width="50px"> </a>
+&nbsp;
+<a href="#"> <img src="images/facebook.png" width="50px"> </a>
+</div>
+&nbsp;&nbsp;&nbsp;
+<div align="left">
+<p> Contact us: </p>
+<p> <strong>📞 Phone No. : </strong>
+76890xxxxx </p>
+<p><strong> 📧 Email: </strong>
+principalgsssbangana@gmail.com</p>
+</div>
