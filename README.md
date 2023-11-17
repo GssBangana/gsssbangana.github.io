@@ -130,7 +130,7 @@
 <div class="anli">
 
 <announcements>
-<h2 align="center">Announcements- <a href="https://gsssbangana.github.io/Announcements">View All</a> </h2></announcements>
+<h2 align="center">🗓️Announcements- <a href="https://gsssbangana.github.io/Announcements">View All</a> </h2></announcements>
 <br>
 <ul> 
 <marquee direction="up" scrollamount="3">
