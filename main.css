@@ -4,7 +4,8 @@
   }
 }
 body {
-
+background-image: url("https://i.imgur.com/1JdPT8u.jpg");
+background-attachment:fixed;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -56,8 +57,9 @@ cure { max-width: 98%;
     margin-right: auto;
     padding-left: 0%;
    display:block;
-background:relative;
-
+background:absolute;
+background-attachment:fixed;
+background-image:url("https://i.imgur.com/1JdPT8u.jpg");
 background-color: white;
     color: black;}
 
@@ -69,6 +71,7 @@ width:device-width;
 gap: 50px;
   flex-wrap: wrap;
 }
+
 .container1 {
   width: 100%;
   display: flex;
