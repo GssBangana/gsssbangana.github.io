@@ -98,9 +98,9 @@
                    
                     <ul class="column">
                      
-                       <li><a href="https://gsssbangana.github.io/Features/Staff_Details">Staff Details</a></li>
-                        <li><a href="https://gsssbangana.github.io/Features/Clerical_Dept">Clerical Department</a></li>
-                        <li><a href="https://gsssbangana.github.io/Features/Charge_R&O">Charge in r/o Staff</a></li>
+                       <li><a href="https://gsssbangana.github.io/Administration/Staff_Details">Staff Details</a></li>
+                        <li><a href="https://gsssbangana.github.io/Administration/Clerical_Dept">Clerical Department</a></li>
+                        <li><a href="https://gsssbangana.github.io/Administration/Charge_R&O">Charge in r/o Staff</a></li>
                       
                        
                     </ul>
