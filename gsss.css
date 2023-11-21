@@ -74,6 +74,22 @@ border-radius:15px;
 
 }
 
+
+
+Block4{display:block;
+padding:8px 30px;
+margin:auto;
+border: 3px dashed blue;
+width:80%;
+}
+Block4:hover {display:block;
+padding:8px 30px;
+margin:auto;
+border: 3px solid blue;
+width:80%;
+}
+
+
 h1{ size: 50px;
 font-family:"Times New Roman", Times, serif;}
 
