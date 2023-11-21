@@ -90,8 +90,23 @@
                         <li><a href="https://gsssbangana.github.io/Activities/Vacation_Schedule">Holidays And Vacation Schedule</a></li>
                         <li><a href="https://gsssbangana.github.io/Activities/Get_Homework">Homework</a></li>
                     </ul>
- <li class="no-sub">
-            <a class="top-heading" href="https://gsssbangana.github.io/Administration">Administration</a>
+  <li>
+            <a class="top-heading"> Administration </a>
+            <i class="caret"></i>
+            <div class="dropdown">
+                <div class="dd-inner">
+                   
+                    <ul class="column">
+                     
+                       <li><a href="https://gsssbangana.github.io/Features/Staff_Details">Staff Details</a></li>
+                        <li><a href="https://gsssbangana.github.io/Features/Clerical_Dept">Clerical Department</a></li>
+                        <li><a href="https://gsssbangana.github.io/Features/Charge_R&O">Charge in r/o Staff</a></li>
+                      
+                       
+                    </ul>
+                   
+                </div>
+            </div>
         </li>
  
 <li class="no-sub">
@@ -207,7 +222,7 @@
 
 
 <div>
-<p align="center"> This Website is managed by a student. <a href="https://divyanshushares.github.io">Click here</a> to know more. </p>
+<p align="center"> This Website is managed by a student. <a href="https://gsssbangana.github.io/Web_Management>Click here</a> to know more. </p>
 
 <p align="center">  &nbsp;    &nbsp;School comes under HPBOSE </p>
 
