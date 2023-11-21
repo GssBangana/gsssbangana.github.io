@@ -222,7 +222,7 @@
 
 
 <div>
-<p align="center"> This Website is managed by a student. <a href="https://gsssbangana.github.io/Web_Management>Click here</a> to know more. </p>
+<p align="center"> This Website is managed by a student. <a href="https://gsssbangana.github.io/Web_Management">Click here</a> to know more. </p>
 
 <p align="center">  &nbsp;    &nbsp;School comes under HPBOSE </p>
 
