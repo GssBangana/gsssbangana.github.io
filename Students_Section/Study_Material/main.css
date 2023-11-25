@@ -1,0 +1,875 @@
+@media (max-width: 380px) {
+  html {
+    font-size: 15px
+  }
+}
+body {
+
+background-image: url("https://i.imgur.com/1JdPT8u.jpg");
+background-attachment:fixed;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+
+   margin:5px 0px 0px 0px;
+background:relative;
+
+
+    color: black;
+    
+
+
+}
+
+grandblock {display:block;
+padding:8px 30px;
+margin:auto;
+ box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.75);
+background: rgb(108,102,195);
+background: linear-gradient(90deg, rgba(108,102,195,1) 3%, rgba(177,177,247,1) 51%, rgba(172,224,235,1) 76%);
+background-attachment:fixed;
+width:90%;
+border-radius:5px;
+}
+.container2 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:10px;
+}
+
+
+ .item1 {
+display:block;
+margin-left:30px;
+width: 28%;
+float: left;
+padding: 5px 8px;
+border: 1px solid grey;
+background: lightgrey;
+border-radius:15px;
+vertical-align:center;
+vertical-align:center;
+ 
+        }
+.item1 img{ margin-top:20px;
+width:;
+
+        }
+
+.item1 :hover { 
+color:darkgrey;  
+
+        }
+
+
+
+.item1 a:link{ 
+color:black;
+text-decoration:none;        }
+
+
+
+.item1 a{ 
+color:blue;
+text-decoration:none;        }
+
+.item1 a:hover{ 
+color:blue;
+text-decoration:none;        }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+h1, h2, h3{
+font-family:"Times New Roman", Times, serif;}
+
+
+#object img{vertical-align: middle;
+ width:70%;
+border-radius:15px;
+}
+#object1 img{vertical-align: middle;
+ width:50%;
+border-radius:15px;
+}
+.text {
+ 
+  font-size: 20px;
+  padding: 6px 8px;
+  width: 100%;
+color:black;
+  text-align: center;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+padding: 10px;
+margin: 10px;
+width:device-width;
+
+  border-collapse: collapse;
+font-size: 18px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+cure { max-width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+   display:block;
+background:relative;
+background-attachment:fixed;
+background-image:url("https://i.imgur.com/1JdPT8u.jpg");
+background-color: white;
+    color: black;}
+
+
+
+#container {
+width:100%;
+  display: flex;
+gap:50px;
+  flex-wrap: wrap;
+}
+#container item {
+margin-left:5px;
+            width: 20%;
+            float: left;
+display:grid;
+}
+#container item1 {
+margin-left:5px;
+            width: 65%;
+            float: left;
+display:grid;
+}
+
+
+kr { display: block;
+ 
+border-top: 1px dashed black;
+   
+}
+button {
+border-radius: 20px;
+  border-left: 5px solid skyblue;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 2px 2px;
+  cursor: pointer;
+background-color:white;
+ box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.75);
+}
+button:hover
+{
+    text-decoration:bold ;
+background-color: lightgrey;
+border-left: 5px solid blue;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,1);
+}
+
+footer {max-width:100%;
+border:1px solid grey;
+background-color: black;
+color: white;
+font-size:15px;
+  bottom:0;
+left:0;
+right:0;
+position:;}
+header
+{max-width:100%;
+border:1px solid grey;
+background-color: #5F6BE0;
+color: white;
+font-size:15px;
+  
+
+}
+
+
+#better{width:99%;
+border:1px solid grey;
+background-color: #CA1919;
+padding:8px 6px;
+color: white;
+font-size:15px;
+border-radius:5px;
+display:block;}
+
+a:link,
+a:visited 
+{
+    color: inherit;
+}
+
+announcements {display:block;
+color:red;
+border:2px solid black;
+vertical-align: center;
+  line-height:4em;
+ -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+ 
+background-color:#EEB12C;
+padding:6px 10px;
+margin:auto;
+border-radius:12px;
+}
+
+
+
+.anli  {display:block;
+ border:2px solid grey;
+
+background-color:#F5C256;
+
+color:red;
+text-align: inherit;
+font-family: EB Garamond;
+border-radius:12px;
+}
+
+hilight {color:blue;}
+unlight {text-decoration: bold underline;
+color:blue;
+}
+beauty {display:block;
+padding:8px 30px;
+margin:auto;
+
+background-color:#3B8DE1;
+}
+
+block1 {display:block;
+border: 2px solid #7e57c2;
+border-radius: 5px;
+background-color: #e3f2fd;
+padding:30px 30px;
+margin:auto}
+
+block2 {display:block;
+
+border: 2px dashed black;
+padding:30px 30px;
+margin:auto;
+border-right:2px solid transparent;
+
+}
+
+
+.gallery{
+border: 2px solid black;
+max-width:100%}
+#ddmenu
+{
+    display:block;
+    
+    letter-spacing:normal;
+}
+
+#ddmenu ul
+{ 
+    margin:0 auto;
+    padding:0;
+    text-align:center; /* Alignment of each top-level menu items within the UL */
+    width:100%;
+    font-size:0;
+    background:#3B8DE1;
+    display:inline-block;
+background-color:#3B8DE1;
+    list-style:none;
+    position:relative;
+    z-index:999999990; 
+    max-width:1400px;
+border:1px solid rgba(255,255,255,0.2);
+border-radius:4px;
+}
+
+#ddmenu li
+{
+    margin:0;
+    
+    font-size:16px;
+    display:inline-block;
+   
+    zoom:1; /*for IE6-7*/
+    position:relative;
+    color:#eee;
+    line-height:26px; /*This determines the height of the menu*/
+    vertical-align:middle;
+    background-color: #3B8DE1;
+    outline:none;
+	-moz-user-select:none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+#ddmenu .full-width {
+    position: static;
+}
+
+#ddmenu .over
+{
+    color:#FFF;
+background-color:#205081;
+}
+
+#ddmenu .over.no-sub {
+    
+}
+
+#ddmenu .top-heading
+{
+    font-weight:bold;
+    
+    color:inherit;
+    text-decoration:none;
+    display:inline-block; 
+    outline:0;
+    cursor:pointer;
+}
+
+/* links of top-heading */
+#ddmenu a, #ddmenu a:link, #ddmenu a:hover
+{
+    color:white;
+padding: 15px;
+border: 0;
+}
+#ddmenu a:hover
+{
+    text-decoration:underline;
+}
+#ddmenu a:active
+{
+    text-decoration:none;
+background-color:red;
+}
+
+#ddmenu a:focus
+{
+    outline:1px dotted #09F;
+}
+
+/* caret(arrow icon) */
+#ddmenu .caret
+{
+    color:inherit;
+    left:-12px;
+    width: 0;
+    height: 0;
+    overflow:hidden;/*for IE6*/
+    vertical-align:middle;
+    margin-bottom:2px;
+    border-top: 4px solid;/*caret size is 4px now*/
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    display: inline-block;
+    position:relative;
+}  
+        
+/* sub-menu layout
+----------------------------*/
+
+#ddmenu .dropdown
+{
+    width:auto;    
+    left:0px;
+    color:#000;
+    padding:0;margin:0;display:none;position:absolute;overflow:hidden;
+    top:100%;
+    border:1px solid rgba(255,255,255,0.35);
+border-top:none;
+border-radius:2px;
+background-color:rgba(0,0,0,0.2);
+background-color:#ccc \9;/*fallback for old IE*/
+}
+
+#ddmenu .full-width .dropdown {
+    width:100%;
+    padding:0;
+    margin:0;
+}
+
+#ddmenu .offset300 {
+    left:-300px;right:auto;
+}
+
+#ddmenu .right-aligned {
+    left:auto;
+    right:0px;
+}
+
+#ddmenu .over .dropdown
+{
+    display:block;
+}
+
+#ddmenu .dd-inner {
+    text-align:center;
+    padding:20px;
+    margin:16px;
+    background-color:#216DBD;
+    white-space:nowrap;
+    font-size:13px;
+}
+
+#ddmenu ul ul
+{ 
+    margin:0;padding:0;text-align:left;width:auto;background:none;border:none;display:grid;position:static;z-index:0;border-radius:0;
+}
+
+#ddmenu ul ul li
+{
+    font-size:13px;
+    padding:0px 0; /*It determines the line height*/
+    color:white;
+    line-height:1;
+    margin:0;display:grid;position:static;background:none;border:none;transition:none;border-radius:0;
+}
+  
+/* links in sub menu
+----------------------------*/
+
+#ddmenu .dropdown a
+{
+    color:white;
+    line-height:1;
+    text-decoration:none;
+    transition:color 0.4s;
+}
+
+
+
+#ddmenu .dropdown a:hover, #ddmenu .dropdown a:focus
+{
+    text-decoration:none;
+    color:black;
+}
+
+/* blocks within the sub-menu
+-----------------------------*/
+#ddmenu .column
+{
+    text-align:left;
+    vertical-align:top;/*or middle*/
+    display:inline-block;
+    *display:inline;*zoom:1;
+    white-space:normal;
+    width:auto;min-width:200px;
+padding:0 30px;
+border-right:1px solid #999;
+}
+
+#ddmenu .dd-inner ul:last-child
+{
+    border-right:none;
+}
+
+#ddmenu h3 {
+  font-weight: 500;
+  line-height: 1.1;
+  margin-top: 12px;
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+
+#ddmenu div.column h3 {text-transform:uppercase;}
+
+/* useful when http://www.menucool.com/ddmenu/one-menu-for-all-pages */
+#ddmenuLink {display:none;}
+
+/*######## add additional styles for mobile-friendly responsive menu ########*/
+
+#ddmenu .menu-icon   
+{
+    display:none; /* hide menu icon initially */
+}
+
+
+
+/*styles for mobile*/
+@media only screen and (max-width: 850px) 
+{
+    #ddmenu .column.mayHide {
+        display:none;
+    }
+
+
+#ddmenu .top-heading {
+  font-weight: bold;
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  outline: 0;
+  cursor: pointer;
+  margin: 0 10px;
+max-width:95%;
+}
+    /*override the original settings*/
+    #ddmenu ul {
+        width: 100%; 
+        display: none;
+        border-radius:0;
+         
+    }
+	
+    #ddmenu li {
+        position:relative;
+        display:block;
+        font-size:20px;
+        text-align:left;
+        border-bottom: 1px solid rgba(0,0,0,0.2);
+        border-radius:0;
+line-height: 35px;
+    }
+
+#ddmenu a, #ddmenu a:link, #ddmenu a:hover {
+  color: white;
+  padding: 15px;
+  border: 0;} 
+
+
+    #ddmenu .full-width {
+        position: relative;
+    }
+    
+    #ddmenu .dropdown {
+        position:relative;
+        *top:auto;/*for IE7*/
+        border:none;
+        border-radius:0;
+        box-shadow:none;
+        background-color:#216DBD;
+    }
+    
+    #ddmenu .offset300 {
+        left:0;
+    }
+
+    #ddmenu .full-width .dropdown {
+        width: auto;
+    }
+        
+    #ddmenu .dd-inner
+    {
+        margin:0;
+        background:none;
+        text-align:left;
+    }
+    
+    /*turn each column to list vertically instead of horizontally */
+    #ddmenu .column {
+        width:auto;
+        padding:0;
+        border:none;
+        display:block;
+    }
+
+    /*move the arrow icon to right*/
+    #ddmenu .caret {
+        position:absolute;
+        left:auto;
+        right:14px;
+        top:20px;
+        border-width:5px;
+    }
+
+
+    /* All the following are for the .menu-icon (pure CSS) */
+    #ddmenu .menu-icon {
+        font-size:32px;/*icon size*/
+		display: block;
+        position: relative;
+		width: 40px;
+		height:36px;
+        text-align:center;
+		cursor: pointer;
+		-moz-user-select:none;		
+        -webkit-user-select: none;
+        background-color: #eee;
+        border-radius: 3px;
+
+        margin-bottom:6px;
+        /*align the icon to the right*/
+        margin-left: auto;
+        margin-right: 11px;
+    }
+
+    #ddmenu .menu-icon::before {
+        content: "";
+        position: absolute;
+        top: 0.25em;
+        left: 4px;
+        width: 1em;
+        height: 0.125em;
+        border-top: 0.375em double #333;
+        border-bottom: 0.125em solid #333;
+        box-sizing: content-box;
+    }
+
+    #ddmenu .menu-icon-active {
+        background-color: #333;
+    }
+
+    #ddmenu .menu-icon-active::before {
+        border-color: #eee;
+    }
+
+
+cure { max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0%;
+   display:block;
+background:relative;
+
+
+background-color: white;
+    color: black;}
+
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container1 {
+  width: 100%;
+  display: flex;
+ flex-wrap: wrap;
+gap:50px;
+}
+ .item {margin-left:25px;
+            width: 33.33%;
+            float: left;
+display:grid;
+
+
+        }
+.left-column {
+  width: 50%;
+}
+
+.right-column {
+  width: 50%;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+padding: 5px;
+margin: 3px;
+width:device-width;
+
+  border-collapse: collapse;
+font-size:12px;
+margin:29px 0px 15px;
+}
+#container {
+width:99%;
+  display: flex;
+gap:30px;
+  flex-wrap: wrap;
+}
+#container img{
+width:100px;
+   float: left;
+display:grid;
+}
+#container item {
+margin-left:5px;
+            width: 20%;
+            float: left;
+display:grid;
+}
+#container item1 {
+margin-left:5px;
+            width: 60%;
+            float: left;
+display:grid;
+}
+
+button {
+border-radius: 20px;
+  border-left: 3px solid skyblue;
+  color: black;
+  padding: 13px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+background-color:white;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.75);
+
+
+}
+
+
+button:hover
+{
+    text-decoration:bold ;
+background-color: lightgrey;
+border-left: 5px solid blue;
+box-shadow: 5px 5px 5px 5px rgba(0,0,0,1);
+}
+
+block1 {display:block;
+border: 2px solid #7e57c2;
+border-radius: 5px;
+
+background-color: #e3f2fd;}
+
+
+
+iframe {width:99%;
+height:50%;
+ border:2px solid black; 
+ border:2px solid;
+ blackloadingL:"lazy"}
+ 
+footer {width:100%;
+border:1px solid grey;
+background-color: black;
+font: white;
+font-size:11px;
+}
+
+header {width:99%;
+border:1px solid grey;
+background-color:  #5F6BE0;
+font: red;
+font-size:15px;}
+
+better{width:99%;
+border:1px solid grey;
+background-color: red;
+padding:8px;
+font: white;
+font-size:15px;}
+
+
+
+h2{font-size:20px;
+font-family:"Times New Roman", Times, serif;}
+p{font-size:13px;}
+
+
+
+
+#better{width:auto;
+border:1px solid grey;
+background-color: red;
+padding:3px 3px;
+color: white;
+text-align:center;
+font-size:25px;
+border-radius:5px;}
+
+
+#object img{vertical-align: middle;
+width:85%;
+border-radius:15px;
+}
+#person img {width:75px;}
+.text {
+ 
+  font-size: 13px;
+  padding: 6px 8px;
+  width: 100%;
+color:black;
+  text-align: center;
+}
+kr { 
+  display: block;
+ 
+border-top: 1px dashed black;
+
+} 
+
+
+grandblock {display:block;
+padding:8px 15px;
+margin:auto;
+ box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.75);
+background: rgb(108,102,195);
+background: linear-gradient(90deg, rgba(108,102,195,1) 3%, rgba(177,177,247,1) 51%, rgba(172,224,235,1) 76%);
+background-attachment:fixed;
+width:90%;
+border-radius:5px;
+}
+.container2 {
+  width: 85%;
+  display: flex;
+ flex-wrap: wrap;
+gap:5px;
+}
+
+
+ .item1 {
+display:block;
+margin-left:5px;
+width: 40%;
+float: left;
+padding: 15px 8px;
+padding-bottom:0px;
+border: 1px solid grey;
+background: lightgrey;
+border-radius:15px;
+vertical-align:center;
+vertical-align:center;
+ 
+        }
+
+
+
+
+
+
+.item1 img{ margin:auto;
+width:100%;
+
+        }
+
+.item1 a:link
+
+{ 
+color:black;
+text-decoration:none;   }
+
+.item1 a:hover
+
+{ 
+color:blue;
+  }
+
+
+
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
